@@ -7,8 +7,11 @@ usando uma rede bayesiana. As variáveis na tabela a seguir são fornecidas
 
 As seguintes variáveis são independentes aos pares: Str, Flw, B, K. Além disso: (R, B), (R, K), (V,
 B), (V, K) são independentes e a seguinte equação é válida:
+
+
 P(Li | V, R) = P(Li | V)
 P(V | R, Str) = P(V | R)  
 P(V | R, Flw) = P(V | R) 
+
       
 ![image](https://github.com/user-attachments/assets/7e2475f1-020b-48aa-9faa-fe239b417895)
