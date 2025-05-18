@@ -13,4 +13,6 @@ B), (V, K) são independentes e a seguinte equação é válida:
 - P(V | R, Str) = P(V | R)  
 - P(V | R, Flw) = P(V | R) 
 
+
+
 ![image](https://github.com/user-attachments/assets/7e2475f1-020b-48aa-9faa-fe239b417895)
