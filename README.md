@@ -1,4 +1,4 @@
-# Diagnóstico do Farol de Bicicleta via Rede Bayesiana (ProbLog)
+# Diagnóstico do Farol de Bicicleta via Rede Bayesiana
 
 **Aluno:** Guilherme Sahdo Maciel  
 **Matrícula:** 22250363  
